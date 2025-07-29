@@ -77,7 +77,7 @@ const Hero = () => {
           variants={itemVariants}
           className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent"
         >
-          Alex Morgan
+          Soumitra Dey
         </motion.h1>
 
         <motion.p
